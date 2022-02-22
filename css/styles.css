@@ -1,0 +1,52 @@
+#title{
+    background-color: #ff4c68;
+}
+.title-font{
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;    
+}
+.row{
+    padding: 5% 12%;
+
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.navbar-brand{
+    color: white;
+}
+.navbar-nav ms-auto{
+    color: white;
+}
+#title{
+    font-family: "Montserrat";
+}
+.col-lg-6{
+    padding: 5% 12%;
+}
+
+/* Navigation Bar */
+.navbar-brand{
+    font-family: ubuntu;
+    padding: 5% 12%;
+    font-size:5rem;
+    font-weight: bolder;
+
+}
+.nav-item{
+    padding: 0 8px;
+    color: white;
+}
+.navbar-toggler{
+    color: transparent;
+    border: 1px solid white;
+}
+.nav-link{
+    color: white;
+    font-size: 1.2rem;
+}
+.nav-item a{
+    color: white;
+    cursor: pointer;
+}
